@@ -1,11 +1,44 @@
-body {
+:root {
+  color:pink;
+  color: white;
+  color:rgb(233, 103, 147);
+  box-sizing: border-box;
+    padding: 10px;
+    margin: 5px;
+}
+
+.body {
     /*Main section of the site */
     position: fixed;
-    margin: 150px;
-    padding: 5px;
+    margin: 5px;
+    padding: 5px;;
     
 }
 
-main {
-    padding-top: 200px;
+.section-pink {
+    background-color:rgb(233, 103, 147);
+    color: white;
+}
+
+.section-white {
+    background-color:beige;
+    color:rgb(233, 103, 147);
+}
+
+.box-right{display: block;
+    justify-content: right;
+}
+
+h1 {
+    color: black; 
+    margin: 20px;
+}
+
+h2 {
+    color: whitesmoke
+    margin: 20px;   
+}
+
+section {
+    display:inline-block
 }
