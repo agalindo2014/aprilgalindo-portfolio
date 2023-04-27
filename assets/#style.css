@@ -1,0 +1,11 @@
+body {
+    /*Main section of the site */
+    position: fixed;
+    margin: 150px;
+    padding: 5px;
+    
+}
+
+main {
+    padding-top: 200px;
+}
