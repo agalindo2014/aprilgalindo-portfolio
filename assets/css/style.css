@@ -69,7 +69,7 @@ header nav ul {
 
 img {
     width: fit-content;
-    height:fit-content;
+    height:100%;
     border: 15px solid #b80d93;
     box-shadow: #0d070b;
     border-style: outset;
