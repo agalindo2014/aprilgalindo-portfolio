@@ -68,7 +68,7 @@ header nav ul {
 
 
 img {
-    width: 100%;
+    width: fit-content;
     height:fit-content;
     border: 15px solid #b80d93;
     box-shadow: #0d070b;
